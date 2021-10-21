@@ -1,0 +1,39 @@
+.wrapper {
+  margin: 5px;
+  background-color: blue;
+  padding: 3px;
+  border: 2px dotted black;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  font-family: "Time New Roman", Times, serif;
+  font-size: 40px;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#firstID {
+  background-color: green;
+  height: 300px;
+  width: 500px;
+  position: relative;
+  text-align: center;
+  align-items: left;
+  border: 2px solid black;
+}
+
+#secondID {
+  background-color: pink;
+  text-align: center;
+  height: 300px;
+  width: 600px;
+  position: relative;
+  bottom: 304px;
+  float: right;
+  border: 2px solid black;
+}
